@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+main{
+    color: #EB9915;
+    background-color: black;
+}
+
+.main-image{
+    max-height: 100vh;
+}
