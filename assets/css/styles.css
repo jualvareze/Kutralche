@@ -11,3 +11,7 @@ main{
 .main-image{
     max-height: 100vh;
 }
+
+.second-image{
+    padding: 30px;
+}
