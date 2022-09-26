@@ -12,16 +12,24 @@ main{
     border-radius: 20px;
 }
 
+.autor{
+    color:#a06a13;
+}
+
 .Tarjetas{
     background-color: #EB9915;
     color: black;
 }
 
+
+
 .advertencia{
     border: solid 2px #EB9915;
     border-radius: 20px;
     padding: 10px;
+    margin-top: 50px;
 }
+
 
 footer{
     background-color: #8C969B;
