@@ -11,3 +11,18 @@ main{
 .second-image{
     border-radius: 20px;
 }
+
+.Tarjetas{
+    background-color: #EB9915;
+    color: black;
+}
+
+.advertencia{
+    border: solid 2px #EB9915;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+footer{
+    background-color: #8C969B;
+}
