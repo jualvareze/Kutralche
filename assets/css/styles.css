@@ -4,8 +4,7 @@
 }
 
 .nav-link{
-    border-bottom:solid 2px #EB9915;
-    border-right:solid 2px #EB9915;
+    border: solid 2px #EB9915;
     text-align: center;
 }
 
