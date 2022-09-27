@@ -6,17 +6,20 @@
 .nav-link{
     border-bottom:solid 2px #EB9915;
     border-right:solid 2px #EB9915;
-    color:#EB9915;
     text-align: center;
 }
 
 .nav-link:hover{
     border-bottom:solid 2px #ffffff;
     border-right:solid 2px #ffffff;
-    color: white;
     text-align: center;
 }
 
+.navbar-toggler-icon{
+    border:solid 2px #a67b35;
+    padding: 2px;
+    border-radius: 3px;
+}
 
 
 main{
